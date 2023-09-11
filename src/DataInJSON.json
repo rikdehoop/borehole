@@ -1,0 +1,99 @@
+[
+    {
+      "Z": 0,
+      "X": 1503512.98553254,
+      "Y": 5690400.53524215,
+      "Lithology": "Water",
+      "Stratigraphy": "Unconsolidated Deposits",
+      "Stage": ""
+    },
+    {
+      "Z": -100,
+      "X": 1503512.98553254,
+      "Y": 5690400.53524215,
+      "Lithology": "Sandstone",
+      "Stratigraphy": "Neogene",
+      "Stage": ""
+    },
+    {
+      "Z": -200,
+      "X": 1503512.98553254,
+      "Y": 5690400.53524215,
+      "Lithology": "Shale",
+      "Stratigraphy": "Neogene",
+      "Stage": ""
+    },
+    {
+      "Z": -400,
+      "X": 1503512.98553254,
+      "Y": 5690400.53524215,
+      "Lithology": "Limestone",
+      "Stratigraphy": "Neogene",
+      "Stage": ""
+    },
+    {
+      "Z": -800,
+      "X": 1503512.98553254,
+      "Y": 5690400.53524215,
+      "Lithology": "Marl",
+      "Stratigraphy": "Neogene",
+      "Stage": ""
+    },
+    {
+      "Z": -1200,
+      "X": 1503512.98553254,
+      "Y": 5690400.53524215,
+      "Lithology": "Siltstone",
+      "Stratigraphy": "Neogene",
+      "Stage": ""
+    },
+    {
+      "Z": -1600,
+      "X": 1503512.98553254,
+      "Y": 5690400.53524215,
+      "Lithology": "Shale",
+      "Stratigraphy": "Neogene",
+      "Stage": ""
+    },
+    {
+      "Z": -2000,
+      "X": 1503512.98553254,
+      "Y": 5690400.53524215,
+      "Lithology": "Limestone",
+      "Stratigraphy": "Paleogene",
+      "Stage": ""
+    },
+    {
+      "Z": -2400,
+      "X": 1503512.98553254,
+      "Y": 5690400.53524215,
+      "Lithology": "Claystone",
+      "Stratigraphy": "Paleogene",
+      "Stage": ""
+    },
+    {
+      "Z": -2800,
+      "X": 1503512.98553254,
+      "Y": 5690400.53524215,
+      "Lithology": "Sandstone",
+      "Stratigraphy": "Paleogene",
+      "Stage": ""
+    },
+    {
+      "Z": -3200,
+      "X": 1503512.98553254,
+      "Y": 5690400.53524215,
+      "Lithology": "Basement Rocks",
+      "Stratigraphy": "Pre-Paleogene",
+      "Stage": ""
+    },
+    {
+      "Z": -3400,
+      "X": 1503512.98553254,
+      "Y": 5690400.53524215,
+      "Lithology": "Base",
+      "Stratigraphy": "-",
+      "Stage": "-"
+    }
+  ]
+  
